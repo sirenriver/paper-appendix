@@ -1,1 +1,2 @@
 # paper-appendix
+本仓库中为《鸟类血孢子虫宿主扩张动态及其影响因素研究》论文中的高清图片，其中appendix5为论文附录5中的图片，appendix6为附录6中的图片，正文使用的图片在otherpics中。
